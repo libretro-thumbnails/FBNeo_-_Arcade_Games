@@ -1,1 +1,3 @@
 This repository is updated using upstream screenshots from time to time. For this reason, Snaps/Titles should always be submitted upstream following the directions from https://wiki.neo-source.com/contribute, otherwise your changes are likely to be overwritten.
+
+Note that the correct aspect ratio is applied to the thumbnails of this repository (unlike the upstream one), this is due to RetroArch not applying aspect ratio in its playlists.
